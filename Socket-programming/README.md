@@ -1,6 +1,3 @@
-# Projects
-
-
 # Socket-programming
 ## netcat.c
 
@@ -10,10 +7,4 @@
 ./netcat -4 (for TCP/IP 4, or -u for UDP) [ip] [port]
 
 
-#IPC
-## server.c client.c
 
-**server.c
-./server 
-**client.c
-./client
