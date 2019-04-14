@@ -6,5 +6,6 @@
 **Client**           
 ./netcat -4 (for TCP/IP 4, or -u for UDP) [ip] [port]
 
-
+**GCC**   
+gcc netcat.c -o netcat -pthread
 
